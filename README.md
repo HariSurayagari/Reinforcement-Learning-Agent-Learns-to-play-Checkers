@@ -9,6 +9,5 @@ algorithm mimics human intelligence without ac-
 tually learning the game. In this paper, we will
 try applying reinforcement learning to develop an
 agent that will learn to play checkers. We will test
-its capability by letting the agent play an oppo-
-nent which makes either random moves or moves
+its capability by letting the agent play an opponent which makes either random moves or moves
 selected by an AI.
