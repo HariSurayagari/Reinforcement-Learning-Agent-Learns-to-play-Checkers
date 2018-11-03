@@ -6,7 +6,7 @@ been a fascination for man. Since the development of modern computers there have
 well against humans. However most algorithms
 are artificial intelligence based, in other words the
 algorithm mimics human intelligence without ac-
-tually learning the game. In this paper, we will
+tually learning the game. In this project, we will
 try applying reinforcement learning to develop an
 agent that will learn to play checkers. We will test
 its capability by letting the agent play an opponent which makes either random moves or moves
