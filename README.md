@@ -1,7 +1,6 @@
 # Reinforcement Learning Agent Learns to play Checkers
 
-Checkers is a well-known board game. Using ma-
-chine learning to develop an algorithm that can
+Checkers is a well-known board game. Using machine learning to develop an algorithm that can
 learn games like Checkers, Chess, etc has always
 been a fascination for man. Since the develop-
 ment of modern computers there have been nu-
