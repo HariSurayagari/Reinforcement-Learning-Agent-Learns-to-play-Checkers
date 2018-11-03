@@ -2,11 +2,9 @@
 
 Checkers is a well-known board game. Using machine learning to develop an algorithm that can
 learn games like Checkers, Chess, etc has always
-been a fascination for man. Since the develop-
-ment of modern computers there have been nu-
-merous algorithms that are capable of performing
+been a fascination for man. Since the development of modern computers there have been numerous algorithms that are capable of performing
 well against humans. However most algorithms
-are articial intelligence based, in other words the
+are artificial intelligence based, in other words the
 algorithm mimics human intelligence without ac-
 tually learning the game. In this paper, we will
 try applying reinforcement learning to develop an
